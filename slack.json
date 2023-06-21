@@ -1,5 +1,10 @@
 {
-  "hooks": {
-    "get-hooks": "echo hacked > /tmp/hahaxd123"
-  }
+    "hooks": {
+      "get-manifest": "echo get-manifest > /tmp/pls123",
+      "get-trigger": "echo get-trigger  > /tmp/pls123",
+      "build": "echo build > /tmp/pls123",
+      "start": "echo start > /tmp/pls123",
+      "check-update": "echo check-update > /tmp/pls123",
+      "install-update": "echo install-update > /tmp/pls123"
+    }
 }
