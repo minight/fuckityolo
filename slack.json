@@ -1,5 +1,5 @@
 {
   "hooks": {
-    "get-hooks": "date > /tmp/helloxd"
+    "get-hooks": "echo hacked > /tmp/hahaxd123"
   }
 }
